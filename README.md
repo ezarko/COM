@@ -6,7 +6,7 @@ See [Basic Requirements | UC Admissions](http://admission.universityofcalifornia
 
 ### Complete the following 7-course pattern by the end of the spring term prior to fall enrollment at UC:
 
-* *Two transferable courses in English composition*
+* _Two transferable courses in English composition_
 * One transferable course in mathematical concepts and quantitative reasoning
 * Four transferable college courses chosen from at least two of the following subject areas:
   * arts and humanities
