@@ -14,7 +14,7 @@ Transfer students must have completed all of the foundation courses or their art
 | - | ----------------- | -------------------------------------------------- | ------------------ | --------------------------------------------- | ------- |
 | X | MATH&nbsp;19A     | Calculus for Science, Engineering, and Mathematics | MATH&nbsp;123      | Analytic Geometry and Calculus I          | 5       |
 |   | MATH&nbsp;19B     | Calculus for Science, Engineering, and Mathematics | MATH&nbsp;124      | Analytic Geometry and Calculus II         | 5       |
-|   | CMPE&nbsp;16      | Applied Discrete Mathematics                       | COMP/MATH&nbsp;117 | Discrete Mathematics                           | 3       |
+| O | CMPE&nbsp;16      | Applied Discrete Mathematics                       | COMP/MATH&nbsp;117 | Discrete Mathematics                           | 3       |
 | X | CMPS&nbsp;5J      | Introduction to Programming in Java                | COMP&nbsp;135      | Introduction to Programming in Java | 4       |
 |   | CMPS&nbsp;11      | Intermediate Programming                           | COMP&nbsp;232      | Advanced Programming in JAVA                | 4       |
 |   | CMPS&nbsp;12B+12M | Introduction to Data Structures                    | COMP&nbsp;220      | Data Structures and Algorithms          | 3       |
