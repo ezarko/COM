@@ -11,7 +11,7 @@ See [Articulation Agreement by Major - Computer Science: Computer Game Design, B
 Transfer students must have completed all of the foundation courses or their articulated equivalents with a cumulative GPA of at least 2.8 in these courses:
 
 |     | UCSC Course   | UCSC Title                                         | COM Course    | COM Title                           | Credits |
-+-----+---------------+----------------------------------------------------+---------------+-------------------------------------+---------+
+| --- | ------------- | -------------------------------------------------- | ------------- | ----------------------------------- | ------- |
 | [x] | MATH 19A      | Calculus for Science, Engineering, and Mathematics | MATH 123      | Analytic Geometry and Calculus I    | 5       |
 | [ ] | MATH 19B      | Calculus for Science, Engineering, and Mathematics | MATH 124      | Analytic Geometry and Calculus II   | 5       |
 | [ ] | CMPE 16       | Applied Discrete Mathematics                       | COMP/MATH 117 | Discrete Mathematics                | 3       |
@@ -24,7 +24,7 @@ _May be admitted lacking one foundation course._
 ### OTHER COURSES REQUIRED FOR GRADUATION
 
 |     | UCSC Course   | UCSC Title                                         | COM Course    | COM Title                           | Credits |
-+-----+---------------+----------------------------------------------------+---------------+-------------------------------------+---------+
+| --- | ------------- | -------------------------------------------------- | ------------- | ----------------------------------- | ------- |
 | [ ] | MATH 21       | Linear Algebra                                     | MATH 116      | Linear Algebra                      | 3       |
 | [ ] | CMPE 12+12L   | Computer Systems and Assembly Language             | COMP 160	    | Computer Organization: An Assembly Language Perspective | 3 |
 
@@ -43,7 +43,7 @@ It is also recommended that transfer students who intend to begin their studies 
 Students will only be considered if they have completed most or all of the Foundation Courses: CMPS 12A, CMPS 12B, CMPE 16, MATH 19A, and MATH 19B.  Furthermore, it must be clear that you are capable of completing the major in a 'reasonable period of time'. Therefore, you are encouraged to complete as many as possible of the lower-division courses in your major before applying for admission to UCSC. We strongly recommend that you have completed a year of calculus (accepted as equivalent to MATH 19A and 19B), linear algebra, differential equations, two programming courses accepted as equivalent to CMPS 12A and 12B, and PHYS 5A (or 6A).
 
 |     | COM Course    | COM Title                           | Credits |
-+-----+---------------+-------------------------------------+---------+
+| --- | ------------- | ----------------------------------- | ------- |
 | [ ] | MATH 224      | Elementary Differential Equations   | 4       |
 
 
@@ -67,7 +67,7 @@ See [GE/Breadth Articulation Agreement - General Education Requirements](http://
 Complete *one* course:
 
 |     | Course   | Title                               | Credits |
-+-----+----------+-------------------------------------+---------+
+| --- | -------- | ----------------------------------- | ------- |
 | [x] | JPNS 225 |                                     |         |
 
 ### Ethnicity and Race (ER)
@@ -128,7 +128,7 @@ Complete *one* course:
 Complete *one* course:
 
 |     | Course   |
-+-----+----------+
+| --- | -------- |
 | [x] | MATH 123 |
 
 ### Scientific Inquiry (SI)
@@ -136,7 +136,7 @@ Complete *one* course:
 Complete *one* course:
 
 |     | Course   |
-+-----+----------+
+| --- | -------- |
 | [ ] | PHYS 110 |
 
 ### Statistical Reasoning (SR)
@@ -175,7 +175,7 @@ Choose one course or equivalent from any of the three following categories: PE-E
 #### Perspectives: Human Behavior (PE-H)
 
 |     | Course   |
-+-----+----------+
+| --- | -------- |
 | [x] | ECON 102 |
 
 ### Practice
@@ -185,7 +185,7 @@ Choose one course or equivalent from any of the three following categories: PR-E
 #### Practice: Creative Process (PR-C)
 
 |     | Course  |
-+-----+---------+
+| --- | ------- |
 | [x] | ART 130 |
 
 ### Composition Requirement (C)
@@ -195,7 +195,7 @@ _Two_ courses in composition are required, one course from C1 and one course fro
 #### C1: (choose one course)
 
 |     | Course   |
-+-----+----------+
+| --- | -------- |
 | [x] | ENGL 150 |
 
 #### C2: (choose one course)
