@@ -12,10 +12,10 @@ Transfer students must have completed all of the foundation courses or their art
 
 |   | UCSC Course       | UCSC Title                                         | COM Course         | COM Title                           | Credits |
 | - | ----------------- | -------------------------------------------------- | ------------------ | --------------------------------------------- | ------- |
-| x | MATH&nbsp;19A     | Calculus for Science, Engineering, and Mathematics | MATH&nbsp;123      | Analytic Geometry and Calculus I          | 5       |
+| X | MATH&nbsp;19A     | Calculus for Science, Engineering, and Mathematics | MATH&nbsp;123      | Analytic Geometry and Calculus I          | 5       |
 |   | MATH&nbsp;19B     | Calculus for Science, Engineering, and Mathematics | MATH&nbsp;124      | Analytic Geometry and Calculus II         | 5       |
 |   | CMPE&nbsp;16      | Applied Discrete Mathematics                       | COMP/MATH&nbsp;117 | Discrete Mathematics                           | 3       |
-| x | CMPS&nbsp;5J      | Introduction to Programming in Java                | COMP&nbsp;135      | Introduction to Programming in Java | 4       |
+| X | CMPS&nbsp;5J      | Introduction to Programming in Java                | COMP&nbsp;135      | Introduction to Programming in Java | 4       |
 |   | CMPS&nbsp;11      | Intermediate Programming                           | COMP&nbsp;232      | Advanced Programming in JAVA                | 4       |
 |   | CMPS&nbsp;12B+12M | Introduction to Data Structures                    | COMP&nbsp;220      | Data Structures and Algorithms          | 3       |
 
@@ -44,13 +44,13 @@ Students will only be considered if they have completed most or all of the Found
 
 |   | UCSC Course   | UCSC Title                                         | COM Course        | COM Title                           | Credits |
 | - | ------------- | -------------------------------------------------- | ----------------- | ---------------------------------------- | ------- |
-| x | MATH&nbsp;19A | Calculus for Science, Engineering, and Mathematics | MATH&nbsp;123     | Analytic Geometry and Calculus I         | 5       |
+| X | MATH&nbsp;19A | Calculus for Science, Engineering, and Mathematics | MATH&nbsp;123     | Analytic Geometry and Calculus I         | 5       |
 |   | MATH&nbsp;19B | Calculus for Science, Engineering, and Mathematics | MATH&nbsp;124     | Analytic Geometry and Calculus II        | 5       |
 |   | MATH&nbsp;21  | Linear Algebra                                     | MATH&nbsp;116     | Linear Algebra                           | 3       |
 |   |               | differential equations                             | MATH&nbsp;224     | Elementary Differential Equations | 4       |
-| . | CMPS&nbsp;12A | Introduction to Programming (Accelerated)          | COMP&nbsp;135/232 |                                           | 8       |
+| / | CMPS&nbsp;12A | Introduction to Programming (Accelerated)          | COMP&nbsp;135/232 |                                           | 8       |
 |   | CMPS&nbsp;12B | Introduction to Data Structures                    | COMP&nbsp;220     | Data Structures and Algorithms           | 3       |
-|   | PHYS&nbsp;5A  |                                                    | PHYS&nbsp;110     | Introductory Physics                     | 3       |
+| O | PHYS&nbsp;5A  |                                                    | PHYS&nbsp;110     | Introductory Physics                     | 3       |
 
 
 *When there are more applicants than spaces available, priority is given to transfers from California Community Colleges who have completed all the lower division classes listed above and have a high GPA.*
@@ -74,7 +74,7 @@ Complete *one* course:
 
 |   | COM Course    | Title                               | Credits |
 | - | ------------- | ----------------------------------- | ------- |
-| x | JPNS&nbsp;225 | Advanced Japanese I                 | 3       |
+| X | JPNS&nbsp;225 | Advanced Japanese I                 | 3       |
 
 ### Ethnicity and Race (ER)
 
@@ -139,7 +139,7 @@ Complete *one* course:
 
 |   | COM Course    | COM Title                        | Credits |
 | - | ------------- | -------------------------------- | ------- |
-| x | MATH&nbsp;123 | Analytic Geometry and Calculus I | 5       |
+| X | MATH&nbsp;123 | Analytic Geometry and Calculus I | 5       |
 
 ### Scientific Inquiry (SI)
 
@@ -147,7 +147,7 @@ Complete *one* course:
 
 |   | COM Course    | COM Title            | Credits |
 | - | ------------- | -------------------- | ------- |
-|   | PHYS&nbsp;110 | Introductory Physics | 3       |
+| O | PHYS&nbsp;110 | Introductory Physics | 3       |
 
 ### Statistical Reasoning (SR)
 
@@ -190,7 +190,7 @@ Choose one course or equivalent from any of the three following categories: PE-E
 
 |   | COM Course    | COM Title                    | Credits |
 | - | ------------- | ---------------------------- | ------- |
-| x | ECON&nbsp;102 | Principles of Microeconomics | 3       |
+| X | ECON&nbsp;102 | Principles of Microeconomics | 3       |
 
 ### Practice
 
@@ -200,7 +200,7 @@ Choose one course or equivalent from any of the three following categories: PR-E
 
 |   | COM Course   | COM Title                 | Credits |
 | - | ------------ | ------------------------- | ------- |
-| x | ART&nbsp;130 | Drawing and Composition I | 4       |
+| X | ART&nbsp;130 | Drawing and Composition I | 4       |
 
 ### Composition Requirement (C)
 
@@ -210,7 +210,7 @@ _Two_ courses in composition are required, one course from C1 and one course fro
 
 |   | COM Course    | COM Title                    | Credits |
 | - | ------------- | ---------------------------- | ------- |
-| x | ENGL&nbsp;150 | Reading and Composition (1A) | 4       |
+| X | ENGL&nbsp;150 | Reading and Composition (1A) | 4       |
 
 #### C2: (choose one course)
 
