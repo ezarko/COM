@@ -1,5 +1,7 @@
 # COM
 
+[TAP Planner](https://uctap.universityofcalifornia.edu/students/courses/)
+
 ## Basic Transfer Requirements
 
 See [Basic Requirements | UC Admissions](http://admission.universityofcalifornia.edu/transfer/preparing-admission/minimum-requirements/index.html)
