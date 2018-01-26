@@ -10,23 +10,23 @@ See [Articulation Agreement by Major - Computer Science: Computer Game Design, B
 
 Transfer students must have completed all of the foundation courses or their articulated equivalents with a cumulative GPA of at least 2.8 in these courses:
 
-|     | UCSC Course   | UCSC Title                                         | COM Course    | COM Title                           | Credits |
-| --- | ------------- | -------------------------------------------------- | ------------- | ----------------------------------- | ------- |
-| [x] | MATH 19A      | Calculus for Science, Engineering, and Mathematics | MATH 123      | Analytic Geometry and Calculus I    | 5       |
-| [ ] | MATH 19B      | Calculus for Science, Engineering, and Mathematics | MATH 124      | Analytic Geometry and Calculus II   | 5       |
-| [ ] | CMPE 16       | Applied Discrete Mathematics                       | COMP/MATH 117 | Discrete Mathematics                | 3       |
-| [x] | CMPS 5J       | Introduction to Programming in Java                | COMP 135      | Introduction to Programming in Java | 4       |
-| [ ] | CMPS 11       | Intermediate Programming                           | COMP 232      | Advanced Programming in JAVA        | 4       |
-| [ ] | CMPS 12B+12M  | Introduction to Data Structures                    | COMP 220      | Data Structures and Algorithms      | 3       |
+|   | UCSC Course   | UCSC Title                                         | COM Course    | COM Title                           | Credits |
+| - | ------------- | -------------------------------------------------- | ------------- | ----------------------------------- | ------- |
+| x | MATH 19A      | Calculus for Science, Engineering, and Mathematics | MATH 123      | Analytic Geometry and Calculus I    | 5       |
+|   | MATH 19B      | Calculus for Science, Engineering, and Mathematics | MATH 124      | Analytic Geometry and Calculus II   | 5       |
+|   | CMPE 16       | Applied Discrete Mathematics                       | COMP/MATH 117 | Discrete Mathematics                | 3       |
+| x | CMPS 5J       | Introduction to Programming in Java                | COMP 135      | Introduction to Programming in Java | 4       |
+|   | CMPS 11       | Intermediate Programming                           | COMP 232      | Advanced Programming in JAVA        | 4       |
+|   | CMPS 12B+12M  | Introduction to Data Structures                    | COMP 220      | Data Structures and Algorithms      | 3       |
 
 _May be admitted lacking one foundation course._
 
 ### OTHER COURSES REQUIRED FOR GRADUATION
 
-|     | UCSC Course   | UCSC Title                                         | COM Course    | COM Title                           | Credits |
-| --- | ------------- | -------------------------------------------------- | ------------- | ----------------------------------- | ------- |
-| [ ] | MATH 21       | Linear Algebra                                     | MATH 116      | Linear Algebra                      | 3       |
-| [ ] | CMPE 12+12L   | Computer Systems and Assembly Language             | COMP 160	    | Computer Organization: An Assembly Language Perspective | 3 |
+|   | UCSC Course   | UCSC Title                                         | COM Course    | COM Title                           | Credits |
+| - | ------------- | -------------------------------------------------- | ------------- | ----------------------------------- | ------- |
+|   | MATH 21       | Linear Algebra                                     | MATH 116      | Linear Algebra                      | 3       |
+|   | CMPE 12+12L   | Computer Systems and Assembly Language             | COMP 160	    | Computer Organization: An Assembly Language Perspective | 3 |
 
 ## For Major
 
@@ -42,9 +42,9 @@ It is also recommended that transfer students who intend to begin their studies 
 
 Students will only be considered if they have completed most or all of the Foundation Courses: CMPS 12A, CMPS 12B, CMPE 16, MATH 19A, and MATH 19B.  Furthermore, it must be clear that you are capable of completing the major in a 'reasonable period of time'. Therefore, you are encouraged to complete as many as possible of the lower-division courses in your major before applying for admission to UCSC. We strongly recommend that you have completed a year of calculus (accepted as equivalent to MATH 19A and 19B), linear algebra, differential equations, two programming courses accepted as equivalent to CMPS 12A and 12B, and PHYS 5A (or 6A).
 
-|     | COM Course    | COM Title                           | Credits |
-| --- | ------------- | ----------------------------------- | ------- |
-| [ ] | MATH 224      | Elementary Differential Equations   | 4       |
+|   | COM Course    | COM Title                           | Credits |
+| - | ------------- | ----------------------------------- | ------- |
+|   | MATH 224      | Elementary Differential Equations   | 4       |
 
 
 *When there are more applicants than spaces available, priority is given to transfers from California Community Colleges who have completed all the lower division classes listed above and have a high GPA.*
@@ -66,107 +66,115 @@ See [GE/Breadth Articulation Agreement - General Education Requirements](http://
 
 Complete *one* course:
 
-|     | Course   | Title                               | Credits |
-| --- | -------- | ----------------------------------- | ------- |
-| [x] | JPNS 225 |                                     |         |
+|   | COM Course | Title                               | Credits |
+| - | ---------- | ----------------------------------- | ------- |
+| x | JPNS 225   | Advanced Japanese I                 | 3       |
 
 ### Ethnicity and Race (ER)
 
 Complete *one* course:
 
-| [ ] | ANTH 204 |
-| [ ] | ANTH 215 |
-| [ ] | BEHS 130 |
-| [ ] | COMM 160 |
-| [ ] | ENGL 237 |
-| [ ] | ETST 110 |
-| [ ] | ETST 111 |
-| [ ] | ETST 112 |
-| [ ] | ETST 121 |
-| [ ] | ETST 151 |
-| [ ] | ETST 154 |
-| [ ] | JOUN 160 |
-| [ ] | SOC 130  |
+|   | COM Course |
+| - | ---------- |
+|   | ANTH 204   |
+|   | ANTH 215   |
+|   | BEHS 130   |
+|   | COMM 160   |
+|   | ENGL 237   |
+|   | ETST 110   |
+|   | ETST 111   |
+|   | ETST 112   |
+|   | ETST 121   |
+|   | ETST 151   |
+|   | ETST 154   |
+|   | JOUN 160   |
+|   | SOC 130    |
 
 ### Interpreting Arts and Media (IM)
 
 Complete *one* course:
 
-| [ ] | ARCH 100  |
-| [ ] | ARCH 101  |
-| [ ] | ARCH 102  |
-| [ ] | ART 101   |
-| [ ] | ART 102   |
-| [ ] | ART 103   |
-| [ ] | ART 105   |
-| [ ] | ART 106   |
-| [ ] | ART 107   |
-| [ ] | DANC 103  |
-| [ ] | DANC 108  |
-| [ ] | DRAM 103  |
-| [ ] | DRAM 110  |
-| [ ] | DRAM 116  |
-| [ ] | DRAM 117  |
-| [ ] | DRAM 130  |
-| [ ] | DRAM 131  |
-| [ ] | DRAM 144  |
-| [ ] | DRAM 150  |
-| [ ] | DRAM 230  |
-| [ ] | DRAM 240  |
-| [ ] | FILM 109A |
-| [ ] | FILM 109B |
-| [ ] | HUM 109A  |
-| [ ] | HUM 109B  |
-| [ ] | MUS 101   |
-| [ ] | MUS 102   |
-| [ ] | MUS 103   |
-| [ ] | MUS 105   |
-| [ ] | PHIL 118  |
+|   | COM Course |
+| - | ---------- |
+|   | ARCH 100   |
+|   | ARCH 101   |
+|   | ARCH 102   |
+|   | ART 101    |
+|   | ART 102    |
+|   | ART 103    |
+|   | ART 105    |
+|   | ART 106    |
+|   | ART 107    |
+|   | DANC 103   |
+|   | DANC 108   |
+|   | DRAM 103   |
+|   | DRAM 110   |
+|   | DRAM 116   |
+|   | DRAM 117   |
+|   | DRAM 130   |
+|   | DRAM 131   |
+|   | DRAM 144   |
+|   | DRAM 150   |
+|   | DRAM 230   |
+|   | DRAM 240   |
+|   | FILM 109A  |
+|   | FILM 109B  |
+|   | HUM 109A   |
+|   | HUM 109B   |
+|   | MUS 101    |
+|   | MUS 102    |
+|   | MUS 103    |
+|   | MUS 105    |
+|   | PHIL 118   |
 
 ### Mathematical and Formal Reasoning (MF)
 
 Complete *one* course:
 
-|     | Course   |
-| --- | -------- |
-| [x] | MATH 123 |
+|   | COM Course | COM Title                        | Credits |
+| - | ---------- | -------------------------------- | ------- |
+| x | MATH 123   | Analytic Geometry and Calculus I | 5       |
 
 ### Scientific Inquiry (SI)
 
 Complete *one* course:
 
-|     | Course   |
-| --- | -------- |
-| [ ] | PHYS 110 |
+|   | COM Course | COM Title            | Credits |
+| - | ---------- | -------------------- | ------- |
+|   | PHYS 110   | Introductory Physics | 3       |
 
 ### Statistical Reasoning (SR)
 
 Complete *one* course:
 
-| [ ] | MATH 115 |
-| [ ] | STAT 115 |
+|   | COM Course |
+| - | ---------- |
+|   | MATH 115   |
+|   | STAT 115   |
 
 ### Textual Analysis and Interpretation (TA)
 
 Complete *one* course:
 
-| [ ] | ENGL 208  |
-| [ ] | ENGL 212  |
-| [ ] | ENGL 214  |
-| [ ] | ENGL 218  |
-| [ ] | ENGL 219  |
-| [ ] | ENGL 220  |
-| [ ] | ENGL 221A |
-| [ ] | ENGL 221B |
-| [ ] | ENGL 222  |
-| [ ] | ENGL 223  |
-| [ ] | ENGL 230  |
-| [ ] | ENGL 235  |
-| [ ] | PHIL 110  |
-| [ ] | PHIL 115  |
-| [ ] | PHIL 116  |
-| [ ] | PHIL 117  |
-| [ ] | POLS 103  |
+|   | COM Course |
+| - | ---------- |
+|   | ENGL 208   |
+|   | ENGL 212   |
+|   | ENGL 214   |
+|   | ENGL 218   |
+|   | ENGL 219   |
+|   | ENGL 220   |
+|   | ENGL 221A  |
+|   | ENGL 221B  |
+|   | ENGL 222   |
+|   | ENGL 223   |
+|   | ENGL 230   |
+|   | ENGL 235   |
+|   | PHIL 110   |
+|   | PHIL 115   |
+|   | PHIL 116   |
+|   | PHIL 117   |
+|   | POLS 103   |
 
 ### Perspectives
 
@@ -174,9 +182,9 @@ Choose one course or equivalent from any of the three following categories: PE-E
 
 #### Perspectives: Human Behavior (PE-H)
 
-|     | Course   |
-| --- | -------- |
-| [x] | ECON 102 |
+|   | COM Course | COM Title                    | Credits |
+| - | ---------- | ---------------------------- | ------- |
+| x | ECON 102   | Principles of Microeconomics | 3       |
 
 ### Practice
 
@@ -184,9 +192,9 @@ Choose one course or equivalent from any of the three following categories: PR-E
 
 #### Practice: Creative Process (PR-C)
 
-|     | Course  |
-| --- | ------- |
-| [x] | ART 130 |
+|   | COM Course| COM Title                 | Credits |
+| - | --------- | ------------------------- | ------- |
+| x | ART 130   | Drawing and Composition I | 4       |
 
 ### Composition Requirement (C)
 
@@ -194,14 +202,16 @@ _Two_ courses in composition are required, one course from C1 and one course fro
 
 #### C1: (choose one course)
 
-|     | Course   |
-| --- | -------- |
-| [x] | ENGL 150 |
+|   | COM Course | COM Title                    | Credits |
+| - | ---------- | ---------------------------- | ------- |
+| x | ENGL 150   | Reading and Composition (1A) | 4       |
 
 #### C2: (choose one course)
 
-| [ ] | ENGL 151 |
-| [ ] | ENGL 155 |
+|   | COM Course |
+| - | ---------- |
+|   | ENGL 151   |
+|   | ENGL 155   |
 
 ### Disciplinary Communication Requirement (DC)
 
