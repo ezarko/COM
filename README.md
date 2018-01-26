@@ -40,11 +40,17 @@ It is also recommended that transfer students who intend to begin their studies 
 
 ### Admission to our Computer Science: Computer Game Design major is selective.
 
-Students will only be considered if they have completed most or all of the Foundation Courses: CMPS 12A, CMPS 12B, CMPE 16, MATH 19A, and MATH 19B.  Furthermore, it must be clear that you are capable of completing the major in a 'reasonable period of time'. Therefore, you are encouraged to complete as many as possible of the lower-division courses in your major before applying for admission to UCSC. We strongly recommend that you have completed a year of calculus (accepted as equivalent to MATH 19A and 19B), linear algebra, differential equations, two programming courses accepted as equivalent to CMPS 12A and 12B, and PHYS 5A (or 6A).
+Students will only be considered if they have completed most or all of the Foundation Courses: CMPS 12A, CMPS 12B, CMPE 16, MATH 19A, and MATH 19B.  Furthermore, it must be clear that you are capable of completing the major in a 'reasonable period of time'. Therefore, you are encouraged to complete as many as possible of the lower-division courses in your major before applying for admission to UCSC. We strongly recommend that you have completed:
 
-|   | COM Course    | COM Title                           | Credits |
-| - | ------------- | ----------------------------------- | ------- |
-|   | MATH 224      | Elementary Differential Equations   | 4       |
+|   | UCSC Course   | UCSC Title                                         | COM Course    | COM Title                           | Credits |
+| - | ------------- | -------------------------------------------------- | ------------- | ----------------------------------- | ------- |
+| x | MATH 19A | Calculus for Science, Engineering, and Mathematics | MATH 123      | Analytic Geometry and Calculus I    | 5       |
+|   | MATH 19B | Calculus for Science, Engineering, and Mathematics | MATH 124      | Analytic Geometry and Calculus II   | 5       |
+|   | MATH 21  | Linear Algebra                                     | MATH 116      | Linear Algebra                      | 3       |
+|   |          | differential equations                             | MATH 224      | Elementary Differential Equations   | 4       |
+| . | CMPS 12A | Introduction to Programming (Accelerated)          | COMP 135/232  |                                    | 8       |
+|   | CMPS 12B | Introduction to Data Structures                    | COMP 220      | Data Structures and Algorithms      | 3       |
+|   | PHYS 5A  |                                                    | PHYS 110      | Introductory Physics                | 3       |
 
 
 *When there are more applicants than spaces available, priority is given to transfers from California Community Colleges who have completed all the lower division classes listed above and have a high GPA.*
