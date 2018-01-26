@@ -1,6 +1,31 @@
 # COM
 
-## For Transfer
+## Basic Transfer Requirements
+
+See [Basic Requirements | UC Admissions](http://admission.universityofcalifornia.edu/transfer/preparing-admission/minimum-requirements/index.html)
+
+### Complete the following 7-course pattern by the end of the spring term prior to fall enrollment at UC:
+
+* Two transferable courses in English composition;
+* One transferable course in mathematical concepts and quantitative reasoning;
+* Four transferable college courses chosen from at least two of the following subject areas:
+  * arts and humanities
+  * social and behavioral sciences
+  * physical and biological sciences
+
+Keep in mind:
+* Each course must be worth at least 3 semester units (or 4-5 quarter units) and be UC-transferable. Check ASSIST to see what courses from your community college are transferable
+* You need to earn a grade of C or better in each course or a Pass (P) grade if pass is equivalent to a C (2.00)
+* You need to be in good academic standing (GPA 2.00 or above) at the last college/university you attended prior to enrolling at UC. 
+* All campuses recommend that you complete math and English as early as possible (some highly recommend completing them by the end of the fall term, one year prior to enrolling at UC)
+
+### Complete at least 60 semester (90 quarter) units of UC-transferable credit. No more than 14 semester (21 quarter) units of the 60 semester (90 quarter) units may be taken pass/fail or credit/no credit.
+
+### Earn at least a 2.4 GPA in UC-transferable courses (2.8 if you're a nonresident). Some majors require a higher GPA for admission selection.
+
+### Complete the required/recommended courses need for your intended major with the minimum grades. (See below)
+
+## Major Transfer Requirements
 
 See [Articulation Agreement by Major - Computer Science: Computer Game Design, B.S.](http://web2.assist.org/cgi-bin/REPORT_2/Rep2.pl?aay=16-17&dora=CMPSG&oia=UCSC&ay=16-17&event=19&ria=UCSC&agreement=aa&sia=MARIN&ia=MARIN&dir=1&&sidebar=false&rinst=left&mver=2&kind=5&dt=2)
 
