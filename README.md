@@ -127,17 +127,17 @@ Complete *one* course:
 
 Complete *one* course:
 
-|   | COM Course     |
-| - | -------------- |
+|   | COM Course     | COM Title                     |
+| - | -------------- | ----------------------------- |
 |   | ARCH&nbsp;100  |
 |   | ARCH&nbsp;101  |
 |   | ARCH&nbsp;102  |
-|   | ART&nbsp;101   |
-|   | ART&nbsp;102   |
-|   | ART&nbsp;103   |
-|   | ART&nbsp;105   |
-|   | ART&nbsp;106   |
-|   | ART&nbsp;107   |
+|   | ART&nbsp;101   | Western Art: Prehist - Mediev |
+|   | ART&nbsp;102   | Western Art: Medieval - 19th  |
+|   | ART&nbsp;103   | Western Art: 19th & 20th      |
+|   | ART&nbsp;105   | Contemporary Art              |
+|   | ART&nbsp;106   | 
+|   | ART&nbsp;107   | Art of U.S.: Diverse History  |
 |   | DANC&nbsp;103  |
 |   | DANC&nbsp;108  |
 |   | DRAM&nbsp;103  |
